@@ -1,0 +1,8 @@
+opencv-python~=4.9.0.80
+
+future~=0.18.3
+torch~=2.3.0
+pillow~=10.2.0
+pygame~=2.5.2
+ultralytics~=8.2.18
+pyautogui~=0.9.54
